@@ -1,0 +1,5 @@
+name,pattern,entropy_bits_per_byte,original_bytes,compressed_bytes,compression_ratio
+alternating,ABAB,1.000000000,1048576,1175,0.001120567
+small_blocks,AAAABBBB,1.000000000,1048576,1687,0.001608849
+large_blocks,half_A_half_B,1.000000000,1048576,1178,0.001123428
+shuffled,shuffled_equal_counts,1.000000000,1048576,166949,0.159214973
