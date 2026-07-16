@@ -1,5 +1,7 @@
 # Shannon Entropy and ZIP Compression Experiment
 
+https://github.com/ROMEKANA/innbesu/releases
+
 ## 実験目的
 
 シャノンエントロピーとZIP圧縮率の関係を、人工データと実ファイルで比較する。
