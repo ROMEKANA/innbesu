@@ -1,6 +1,6 @@
 # Shannon Entropy and ZIP Compression Experiment
 
-#PDFはこちら！
+# PDFはこちら！
 https://github.com/ROMEKANA/innbesu/releases/download/1/poster_2264096.pdf
 
 ## 実験目的
